@@ -1,4 +1,4 @@
 # GitHub-demo
-my first GitHub repository
+my first GitHub repository.
 Author:-sameer kumar
 
