@@ -1,7 +1,7 @@
 # GitHub-demo
 my first GitHub repository.
 <br>
-Author:-sameer and Bullet
+Author:Braj Bihari
 <br>
 lets go
 
